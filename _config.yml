@@ -1,28 +1,40 @@
-name: The Collective
 favicon: null
-layout_spectrum: 0.9951725646387786
-typography_spectrum: 0.9117625390645117
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: The Collective
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.27813899610191584
-  lightness: 0.0646928905043751
-  saturation: 0.293106417870149
-  rhythmicContrast: 0.7204005587846041
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4044038
+  brandStrength: 1
+  lightness: 0.7653061
+  brandColors:
+    - '#F6F6F8'
+    - '#231738'
+    - '#C4471E'
+    - '#EA883E'
+    - '#8E8D93'
+  rhythmicContrast: 0.7803437
+typography_spectrum: 0.9919441
+layout_spectrum: 0.9747583
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
