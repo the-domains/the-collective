@@ -1,0 +1,28 @@
+name: The Collective
+favicon: null
+layout_spectrum: 0.9951725646387786
+typography_spectrum: 0.9117625390645117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.27813899610191584
+  lightness: 0.0646928905043751
+  saturation: 0.293106417870149
+  rhythmicContrast: 0.7204005587846041
+purpose: []
