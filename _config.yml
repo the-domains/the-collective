@@ -1,9 +1,7 @@
-favicon: null
 name: The Collective
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9747583
+typography_spectrum: 0.9919441
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: THE CLLTVE
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4044038
-  brandStrength: 1
-  lightness: 0.7653061
   brandColors:
     - '#F6F6F8'
     - '#231738'
     - '#C4471E'
     - '#EA883E'
     - '#8E8D93'
+  brandStrength: 1
+  lightness: 0.7653061
+  saturation: 0.4044038
   rhythmicContrast: 0.7803437
-typography_spectrum: 0.9919441
-layout_spectrum: 0.9747583
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
